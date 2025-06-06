@@ -32,4 +32,10 @@ public class QueueController : ControllerBase
 
         return Ok(new { message = "Message successfully enqueued to SQS." });
     }
+
+    [HttpGet("Test")]
+    public string GetQueue() 
+    {
+        return "Work!";
+    }
 }

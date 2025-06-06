@@ -17,6 +17,12 @@ builder.Services.AddScoped<IQueueService, QueueService>();
 builder.Services.AddDefaultAWSOptions(builder.Configuration.GetAWSOptions());
 builder.Services.AddAWSService<IAmazonSQS>();
 
+// Adiciona suporte ao Lambda
+builder.Services.AddAWSLambdaHosting(LambdaEventSource.HttpApi);
+
+// Adiciona suporte ao Lambda
+builder.Services.AddAWSLambdaHosting(LambdaEventSource.HttpApi);
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
