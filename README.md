@@ -1,6 +1,9 @@
 # MessagingBus
 MessageBus.Abstraction is a lightweight and extensible .NET library that defines a generic interface for message/event publishing across different message brokers
 
+### URL
+https://3efawigrphjfmnxe243s33gwki0kbtbl.lambda-url.us-east-1.on.aws/swagger/index.html
+
 ---
 
 ``` json
@@ -114,6 +117,32 @@ MessageBus.Abstraction is a lightweight and extensible .NET library that defines
 
 ```
 
+# Comparison
+
+
+![image](https://github.com/user-attachments/assets/ad8561a1-618e-41aa-9993-5b2211d019ca)
+|:--:| 
+| *https://stackoverflow.com/questions/28687295/sqs-vs-rabbitmq* |
+
+![image](https://github.com/user-attachments/assets/ed256d2d-b01a-4b92-87f6-be1815d02ea7)
+|:--:| 
+| *https://www.geeksforgeeks.org/difference-between-rabbitmq-vs-sqs* |
+
+![image](https://github.com/user-attachments/assets/bbfbb2a2-0c2c-411b-abcd-5d97c7dd153e)
+|:--:| 
+| *https://www.geeksforgeeks.org/difference-between-rabbitmq-vs-sqs* |
+
+![image](https://github.com/user-attachments/assets/5d4fe52b-0fe5-4ef3-ae57-450122f74441)
+|:--:|
+| *https://www.svix.com/resources/faq/rabbitmq-vs-sqs/* | 
+
+![image](https://github.com/user-attachments/assets/cf156fad-4485-4e22-b362-656e820b899c)
+|:--:|
+| *https://www.svix.com/resources/faq/rabbitmq-vs-sqs/* |
+
+![image](https://github.com/user-attachments/assets/76556122-1699-4fcb-9559-5601afe0cca4)
+|:--:|
+| *https://www.svix.com/resources/faq/rabbitmq-vs-sqs/* |
 
 # References
 
